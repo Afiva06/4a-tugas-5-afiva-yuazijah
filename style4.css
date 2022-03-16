@@ -1,0 +1,67 @@
+.btn-primary {
+    background-color: cornflowerblue;
+    border-color: rgb(192, 192, 247);
+}
+
+.btn-primary:hover {
+    background-color:cornflowerblue;
+    border-color:rgb(192, 192, 247);
+}
+
+h1, h2 {
+    color: cornflowerblu;
+    font-weight: bold;
+}
+
+#footer {
+    text-align: center;
+    background-color: cornflowerblue;
+    font-family: monospace;
+    padding: 5px;
+    padding-top: 10px;
+    color:cornflowerblue;
+}
+
+.col-6 h6 {
+    font-style: oblique;
+    text-align: left;
+    padding-top: 25px;
+}
+
+.col-6 img {
+    height: 95%;
+}
+
+#about {
+    margin-top: 100px;
+}
+
+.card-title {
+    color:cornflowerblue;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover {
+    color:cornflowerblue;
+    font-weight: bold;
+    background: rgb(192, 192, 247);
+    transition: .3s;
+}
+
+.navbar ul li a:focus {
+    color:cornflowerblue;
+    font-weight: bold;
+    background:rgb(192, 192, 247);
+    transition: .3s;
+}
+
+.navbar ul li a:active {
+    color:bisque;
+    font-weight: bold;
+    background: rgb(192, 192, 247);
+    transition: .3s;
+}
+
+body{
+    background-color: blanchedalmond;
+}
